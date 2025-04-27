@@ -1,6 +1,10 @@
 <h2 align="left">Hi 👋! My name is Raman</h2>
 
 ###
+<div align="center">
+  <img height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHp6Mzg3YzdvMmU2Zmk3N2t1bHlsbjB1NnZ6bzU5MjRwZWs0andzZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif"  />
+</div>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=raman976&column=2&row=1&theme=darkhub&no-bg=true&margin-w=32&no-frame=true" height="150" alt="trophy graph"  />
@@ -60,8 +64,5 @@
 ###
 
 [![An image of @raman976's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raman976)](https://holopin.io/@raman976)
-<div align="center">
-  <img height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHp6Mzg3YzdvMmU2Zmk3N2t1bHlsbjB1NnZ6bzU5MjRwZWs0andzZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif"  />
-</div>
 
 ###
